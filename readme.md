@@ -48,10 +48,8 @@ Use responsibly and legally—this tool is intended for <strong>ethical purposes
 
 <h3>One-command install and run:</h3>
 
-<pre><code>curl -sSL https://raw.githubusercontent.com/yourusername/anonymity-guard/main/anonymity-guard.sh | sudo bash
+<pre><code>curl -sSL https://raw.githubusercontent.com/abdullah-x909/anonymity-guard/main/anonymity-guard.sh | sudo bash
 </code></pre>
-
-<p><em>Replace <code>yourusername</code> with your GitHub username.</em></p>
 
 <p>This installs dependencies, configures Tor, sets firewall rules, and starts the guard automatically.</p>
 
